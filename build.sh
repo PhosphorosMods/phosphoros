@@ -23,6 +23,7 @@ java -cp "$ASM:build/tools" Reobf "$MCP_CSV_DIR" build/classes build/mcp "$MC_DI
 echo "== link check: common classes vs dedicated server"; java -cp "$ASM:build/tools" LinkCheck build/classes lucifertotem/client/ "$MC_DIR/server-patched-srg.jar" "$MC_DIR/forge-srg.jar" $(find "$SERVER_LIBS" -name '*.jar' | grep -v forge) | tail -15
 echo "== link check: all classes vs client"; java -cp "$ASM:build/tools" LinkCheck build/classes - "$MC_DIR/client-patched-srg.jar" "$MC_DIR/forge-srg.jar" $(ls "$MC_DIR"/clientlibs/*.jar | grep -v 2.9.2) $(find "$SERVER_LIBS" -name '*.jar' | grep -v forge) | tail -15
 cp -r src/main/resources/* build/classes/
+cp LICENSE LICENSE-ASSETS.md CREDITS-AUDIO.md build/classes/
 printf 'Manifest-Version: 1.0\nImplementation-Title: Phosphoros: Purple Mysteries\nImplementation-Version: 1.3.3\nCreated-By: PhosphorosMod\n' > build/MANIFEST.MF
 (cd build/classes && find . -exec touch -d '2026-10-19 00:00:00' {} + && jar cfm ../phosphoros-1.3.3.jar ../MANIFEST.MF .)
 sha256sum build/phosphoros-1.3.3.jar

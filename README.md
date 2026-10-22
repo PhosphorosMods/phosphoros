@@ -10,8 +10,9 @@ the mod id is still `lucifertotem`, so existing worlds keep working.
   not included here). Language check: `python3 tools/check_lang.py build/phosphoros-1.3.3.jar`.
 - Contact: phosphoros.mod@gmail.com
 
-License: not yet chosen (see LICENSE status below). Voice clips of Dr. D.C.A. (Ammon) Hillman
-(`src/main/resources/assets/lucifertotem/sounds/ammonius/`) are used with his permission and are not
-covered by any license in this repository.
-
-LICENSE status: no license file yet. Until one is added, all rights are reserved.
+## License
+- Code and data: MIT (`LICENSE`), Copyright (c) 2026 PhosphorosMod.
+- Textures, models and art: CC BY 4.0 (`LICENSE-ASSETS.md`, which lists the exact scope and the textures
+  derived from vanilla Minecraft that are excluded).
+- Doctor Ammonius voice clips by Dr. D.C.A. (Ammon) Hillman (`src/main/resources/assets/lucifertotem/sounds/ammonius/`):
+  used with his permission, all rights reserved, not redistributable separately from the mod (`CREDITS-AUDIO.md`).
