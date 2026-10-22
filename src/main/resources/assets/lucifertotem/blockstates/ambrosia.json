@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "age=0": {
+   "model": "lucifertotem:ambrosia_stage_0"
+  },
+  "age=1": {
+   "model": "lucifertotem:ambrosia_stage_1"
+  },
+  "age=2": {
+   "model": "lucifertotem:ambrosia_stage_2"
+  },
+  "age=3": {
+   "model": "lucifertotem:ambrosia_stage_3"
+  },
+  "age=4": {
+   "model": "lucifertotem:ambrosia_stage_4"
+  }
+ }
+}

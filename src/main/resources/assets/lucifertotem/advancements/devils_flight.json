@@ -1,0 +1,30 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:record_devils_flight"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.devils_flight.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.devils_flight.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "disc": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "item": "lucifertotem:record_devils_flight"
+     }
+    ]
+   }
+  }
+ },
+ "parent": "lucifertotem:band_camp"
+}

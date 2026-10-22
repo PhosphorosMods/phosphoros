@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:anaktoron"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.mystes.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.mystes.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:kykeon"
+}

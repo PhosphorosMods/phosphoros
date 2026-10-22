@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "lucifertotem:purple_ambrosia"
+  },
+  {
+   "item": "minecraft:glass_bottle"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:purple_nectar",
+  "count": 1
+ }
+}

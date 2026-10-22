@@ -1,0 +1,1 @@
+{"textures": {"particle": "lucifertotem:blocks/purple_rift_upper", "rift": "lucifertotem:blocks/purple_rift_upper"}, "elements": [{"from": [7.5, 0, 0], "to": [8.5, 16, 16], "shade": false, "faces": {"east": {"uv": [0, 0, 16, 16], "texture": "#rift"}, "west": {"uv": [16, 0, 0, 16], "texture": "#rift"}}}]}

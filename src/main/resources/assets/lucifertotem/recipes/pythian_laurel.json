@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "LNL",
+  "N N",
+  "LNL"
+ ],
+ "key": {
+  "L": {
+   "type": "forge:ore_dict",
+   "ore": "treeLeaves"
+  },
+  "N": {
+   "item": "minecraft:gold_nugget"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:pythian_laurel"
+ }
+}

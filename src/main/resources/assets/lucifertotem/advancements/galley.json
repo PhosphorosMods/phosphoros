@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:boat"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.galley.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.galley.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:aww_gawd"
+}

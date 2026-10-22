@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:red_pen"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.peer_review.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.peer_review.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:library"
+}

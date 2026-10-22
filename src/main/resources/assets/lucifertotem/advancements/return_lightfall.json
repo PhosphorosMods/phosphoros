@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:compass"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.return_lightfall.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.return_lightfall.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:enter_lightfall"
+}

@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:theriac_crock"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.aged_to_perfection.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.aged_to_perfection.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:poison_king"
+}

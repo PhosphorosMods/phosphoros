@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:honey_cake"
+ }
+}

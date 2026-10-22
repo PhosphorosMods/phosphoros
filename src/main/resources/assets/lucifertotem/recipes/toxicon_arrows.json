@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "lucifertotem:venom_vial"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:toxicon_arrow",
+  "count": 4
+ }
+}

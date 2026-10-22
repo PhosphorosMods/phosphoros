@@ -1,0 +1,30 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:scythian_bow"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.scythian_bow.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.scythian_bow.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "bow": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "item": "lucifertotem:scythian_bow"
+     }
+    ]
+   }
+  }
+ },
+ "parent": "lucifertotem:toxicon"
+}

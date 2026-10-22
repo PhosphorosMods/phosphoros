@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"textures":{"particle":"lucifertotem:blocks/starfish","star":"lucifertotem:blocks/starfish"},"elements":[{"from":[0,0.1,0],"to":[16,1,16],"faces":{"up":{"uv":[0,0,16,16],"texture":"#star"},"down":{"uv":[0,0,16,16],"texture":"#star"}}}]}

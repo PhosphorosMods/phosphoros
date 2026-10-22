@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:bed"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.somnus_nap.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.somnus_nap.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:poppy_tears"
+}

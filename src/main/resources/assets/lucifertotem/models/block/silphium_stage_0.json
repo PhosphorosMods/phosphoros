@@ -1,0 +1,6 @@
+{
+ "parent": "block/crop",
+ "textures": {
+  "crop": "lucifertotem:blocks/silphium_stage_0"
+ }
+}

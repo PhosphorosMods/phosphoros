@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:duskstone_bricks"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.fallen_altar.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.fallen_altar.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:lecture_notes"
+}

@@ -1,0 +1,52 @@
+{
+ "pools": [
+  {
+   "name": "venom",
+   "rolls": 1,
+   "conditions": [
+    {
+     "condition": "killed_by_player"
+    },
+    {
+     "condition": "random_chance_with_looting",
+     "chance": 0.3,
+     "looting_multiplier": 0.1
+    }
+   ],
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:venom_vial",
+     "weight": 1
+    }
+   ]
+  },
+  {
+   "name": "skin",
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "item",
+     "name": "minecraft:string",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 0,
+        "max": 2
+       }
+      },
+      {
+       "function": "looting_enchant",
+       "count": {
+        "min": 0,
+        "max": 1
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

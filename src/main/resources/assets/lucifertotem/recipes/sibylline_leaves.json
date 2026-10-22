@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:book"
+  },
+  {
+   "type": "forge:ore_dict",
+   "ore": "treeLeaves"
+  },
+  {
+   "type": "forge:ore_dict",
+   "ore": "treeLeaves"
+  },
+  {
+   "type": "forge:ore_dict",
+   "ore": "treeLeaves"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:sibylline_leaves"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:purple_ambrosia"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.food_of_the_gods.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.food_of_the_gods.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

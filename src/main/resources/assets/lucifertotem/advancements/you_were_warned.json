@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:ergot"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.you_were_warned.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.you_were_warned.description"
+  },
+  "frame": "task",
+  "hidden": true,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

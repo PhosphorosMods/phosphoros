@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PGP",
+  "PNP",
+  "PRP"
+ ],
+ "key": {
+  "P": {
+   "item": "minecraft:planks",
+   "data": 32767
+  },
+  "G": {
+   "item": "minecraft:gold_ingot"
+  },
+  "N": {
+   "item": "minecraft:noteblock"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:lyre_radio",
+  "count": 1
+ }
+}

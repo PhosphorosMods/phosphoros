@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:brain_soap"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.brain_soaps.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.brain_soaps.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

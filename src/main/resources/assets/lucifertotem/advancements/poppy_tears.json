@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:poppy_tears"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.poppy_tears.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.poppy_tears.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:enter_lightfall"
+}

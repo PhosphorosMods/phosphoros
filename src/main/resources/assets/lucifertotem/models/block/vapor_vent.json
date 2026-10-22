@@ -1,0 +1,8 @@
+{
+ "parent": "block/cube_bottom_top",
+ "textures": {
+  "top": "lucifertotem:blocks/vapor_vent_top",
+  "bottom": "lucifertotem:blocks/vapor_vent_side",
+  "side": "lucifertotem:blocks/vapor_vent_side"
+ }
+}

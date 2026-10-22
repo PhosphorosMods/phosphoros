@@ -1,0 +1,6 @@
+{
+ "parent": "block/crop",
+ "textures": {
+  "crop": "lucifertotem:blocks/ambrosia_stage_4"
+ }
+}

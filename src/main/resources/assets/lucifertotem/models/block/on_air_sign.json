@@ -1,0 +1,50 @@
+{
+ "parent": "block/block",
+ "ambientocclusion": false,
+ "textures": {
+  "particle": "lucifertotem:blocks/on_air_sign",
+  "face": "lucifertotem:blocks/on_air_sign",
+  "edge": "lucifertotem:blocks/on_air_edge"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    4,
+    14
+   ],
+   "to": [
+    16,
+    12,
+    16
+   ],
+   "shade": false,
+   "faces": {
+    "north": {
+     "texture": "#face",
+     "uv": [
+      0,
+      4,
+      16,
+      12
+     ]
+    },
+    "south": {
+     "texture": "#edge"
+    },
+    "east": {
+     "texture": "#edge"
+    },
+    "west": {
+     "texture": "#edge"
+    },
+    "up": {
+     "texture": "#edge"
+    },
+    "down": {
+     "texture": "#edge"
+    }
+   }
+  }
+ ]
+}

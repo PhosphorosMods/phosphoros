@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:jukebox"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.bacchanal.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.bacchanal.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "open=false": {
+   "model": "lucifertotem:hekate_gate"
+  },
+  "open=true": {
+   "model": "lucifertotem:hekate_gate_open"
+  }
+ }
+}

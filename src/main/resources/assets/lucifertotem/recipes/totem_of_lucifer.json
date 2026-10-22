@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GEG", "ONO", "GOG"],
+  "key": {
+    "G": {"item": "minecraft:gold_block"},
+    "E": {"item": "minecraft:ender_eye"},
+    "O": {"item": "minecraft:obsidian"},
+    "N": {"item": "minecraft:nether_star"}
+  },
+  "result": {"item": "lucifertotem:totem_of_lucifer"}
+}

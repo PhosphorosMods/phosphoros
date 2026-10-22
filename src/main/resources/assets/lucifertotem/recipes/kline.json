@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "W  ",
+  "WWW",
+  "P P"
+ ],
+ "key": {
+  "W": {
+   "item": "minecraft:wool",
+   "data": 32767
+  },
+  "P": {
+   "item": "minecraft:planks",
+   "data": 32767
+  }
+ },
+ "result": {
+  "item": "lucifertotem:kline",
+  "count": 1
+ }
+}

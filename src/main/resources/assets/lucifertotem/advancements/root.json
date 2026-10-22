@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:theriac"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.root.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.root.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": false,
+  "show_toast": false,
+  "background": "minecraft:textures/blocks/purpur_block.png"
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ }
+}

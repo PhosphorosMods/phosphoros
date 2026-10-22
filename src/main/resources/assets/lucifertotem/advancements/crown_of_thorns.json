@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:crown_of_thorns"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.crown_of_thorns.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.crown_of_thorns.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

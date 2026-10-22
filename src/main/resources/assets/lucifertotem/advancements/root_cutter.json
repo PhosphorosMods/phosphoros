@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:mandrake_root"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.root_cutter.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.root_cutter.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

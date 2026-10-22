@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "OP",
+  "PO"
+ ],
+ "key": {
+  "O": {
+   "item": "minecraft:obsidian"
+  },
+  "P": {
+   "item": "minecraft:dye",
+   "data": 5
+  }
+ },
+ "result": {
+  "item": "lucifertotem:duskstone_bricks",
+  "count": 2
+ }
+}

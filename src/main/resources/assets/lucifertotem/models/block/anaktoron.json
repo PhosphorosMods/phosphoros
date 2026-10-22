@@ -1,0 +1,42 @@
+{
+ "parent": "block/block",
+ "textures": {
+  "particle": "lucifertotem:blocks/anaktoron_side",
+  "side": "lucifertotem:blocks/anaktoron_side",
+  "top": "lucifertotem:blocks/anaktoron_top"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    12,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#side"
+    },
+    "south": {
+     "texture": "#side"
+    },
+    "east": {
+     "texture": "#side"
+    },
+    "west": {
+     "texture": "#side"
+    },
+    "down": {
+     "texture": "#side"
+    },
+    "up": {
+     "texture": "#top"
+    }
+   }
+  }
+ ]
+}

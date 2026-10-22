@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " LV",
+  " S ",
+  "S  "
+ ],
+ "key": {
+  "L": {
+   "item": "minecraft:leaves",
+   "data": 32767
+  },
+  "V": {
+   "item": "minecraft:vine"
+  },
+  "S": {
+   "item": "minecraft:stick"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:thyrsus",
+  "count": 1
+ }
+}

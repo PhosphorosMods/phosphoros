@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "RGR",
+  "LLL"
+ ],
+ "key": {
+  "R": {
+   "item": "minecraft:dye",
+   "data": 1
+  },
+  "G": {
+   "item": "minecraft:glowstone_dust"
+  },
+  "L": {
+   "item": "minecraft:redstone_lamp"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:on_air_sign",
+  "count": 2
+ }
+}

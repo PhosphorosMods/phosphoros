@@ -1,0 +1,96 @@
+{
+ "pools": [
+  {
+   "name": "wine",
+   "rolls": {
+    "min": 2,
+    "max": 4
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:bacchic_wine",
+     "weight": 6
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:honey_cake",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:gold_nugget",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 6
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:vine",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 5
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "gift",
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:ivy_crown",
+     "weight": 3
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:thyrsus",
+     "weight": 3
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_cat",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_mall",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_far",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:noteblock",
+     "weight": 2
+    }
+   ]
+  }
+ ]
+}

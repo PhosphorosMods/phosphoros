@@ -1,0 +1,244 @@
+{
+ "pools": [
+  {
+   "name": "remedies",
+   "rolls": {
+    "min": 3,
+    "max": 6
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:theriac",
+     "weight": 6,
+     "entryName": "theriac_1"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:venom_vial",
+     "weight": 8,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ],
+     "entryName": "venom_vial_2"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:mithridatium",
+     "weight": 4,
+     "entryName": "mithridatium_3"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:mandrake_root",
+     "weight": 6,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ],
+     "entryName": "mandrake_root_4"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:henbane_leaves",
+     "weight": 6,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 3
+       }
+      }
+     ],
+     "entryName": "henbane_leaves_5"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:aged_vinegar",
+     "weight": 5,
+     "entryName": "aged_vinegar_6"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:honey_cake",
+     "weight": 5,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ],
+     "entryName": "honey_cake_7"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:diluted_venom",
+     "weight": 5,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ],
+     "entryName": "diluted_venom_8"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:alabastron",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{lt_effects:[{Id:10b,Amplifier:0b,Duration:900,Ambient:0b,ShowParticles:1b}]}"
+      }
+     ],
+     "entryName": "alabastron_9"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:alabastron",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{lt_effects:[{Id:1b,Amplifier:0b,Duration:3600,Ambient:0b,ShowParticles:1b}]}"
+      }
+     ],
+     "entryName": "alabastron_10"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:alabastron",
+     "weight": 4,
+     "entryName": "alabastron_11"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:potion",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{Potion:\"minecraft:strong_healing\"}"
+      }
+     ],
+     "entryName": "potion_12"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:potion",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{Potion:\"minecraft:long_regeneration\"}"
+      }
+     ],
+     "entryName": "potion_13"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:potion",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{Potion:\"minecraft:long_night_vision\"}"
+      }
+     ],
+     "entryName": "potion_14"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:splash_potion",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{Potion:\"minecraft:strong_healing\"}"
+      }
+     ],
+     "entryName": "splash_potion_15"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:glass_bottle",
+     "weight": 8,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 5
+       }
+      }
+     ],
+     "entryName": "glass_bottle_16"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:nether_wart",
+     "weight": 6,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 6
+       }
+      }
+     ],
+     "entryName": "nether_wart_17"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:blaze_powder",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 3
+       }
+      }
+     ],
+     "entryName": "blaze_powder_18"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:fermented_spider_eye",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ],
+     "entryName": "fermented_spider_eye_19"
+    }
+   ]
+  }
+ ]
+}

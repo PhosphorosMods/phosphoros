@@ -1,0 +1,169 @@
+{
+ "parent": "block/block",
+ "textures": {
+  "s": "lucifertotem:blocks/petrified_statue",
+  "particle": "lucifertotem:blocks/petrified_statue"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    3
+   ],
+   "to": [
+    13,
+    2,
+    13
+   ],
+   "faces": {
+    "down": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    2,
+    6
+   ],
+   "to": [
+    11,
+    10,
+    10
+   ],
+   "faces": {
+    "down": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    10,
+    6
+   ],
+   "to": [
+    10,
+    14,
+    10
+   ],
+   "faces": {
+    "down": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    6,
+    7
+   ],
+   "to": [
+    5,
+    10,
+    9
+   ],
+   "faces": {
+    "down": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    11,
+    6,
+    7
+   ],
+   "to": [
+    13,
+    10,
+    9
+   ],
+   "faces": {
+    "down": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

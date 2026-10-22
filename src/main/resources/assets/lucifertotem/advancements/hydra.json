@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:hydra_venom"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.hydra.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.hydra.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

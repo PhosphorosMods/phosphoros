@@ -1,0 +1,52 @@
+{
+ "variants": {
+  "age=0,ergot=false": {
+   "model": "lucifertotem:barley_stage_0"
+  },
+  "age=0,ergot=true": {
+   "model": "lucifertotem:barley_stage_0"
+  },
+  "age=1,ergot=false": {
+   "model": "lucifertotem:barley_stage_1"
+  },
+  "age=1,ergot=true": {
+   "model": "lucifertotem:barley_stage_1"
+  },
+  "age=2,ergot=false": {
+   "model": "lucifertotem:barley_stage_2"
+  },
+  "age=2,ergot=true": {
+   "model": "lucifertotem:barley_stage_2"
+  },
+  "age=3,ergot=false": {
+   "model": "lucifertotem:barley_stage_3"
+  },
+  "age=3,ergot=true": {
+   "model": "lucifertotem:barley_stage_3"
+  },
+  "age=4,ergot=false": {
+   "model": "lucifertotem:barley_stage_4"
+  },
+  "age=4,ergot=true": {
+   "model": "lucifertotem:barley_stage_4"
+  },
+  "age=5,ergot=false": {
+   "model": "lucifertotem:barley_stage_5"
+  },
+  "age=5,ergot=true": {
+   "model": "lucifertotem:barley_stage_5"
+  },
+  "age=6,ergot=false": {
+   "model": "lucifertotem:barley_stage_6"
+  },
+  "age=6,ergot=true": {
+   "model": "lucifertotem:barley_stage_6"
+  },
+  "age=7,ergot=false": {
+   "model": "lucifertotem:barley_stage_7"
+  },
+  "age=7,ergot=true": {
+   "model": "lucifertotem:barley_stage_7_ergot"
+  }
+ }
+}

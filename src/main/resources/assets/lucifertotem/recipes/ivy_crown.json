@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "VVV",
+  "V V"
+ ],
+ "key": {
+  "V": {
+   "item": "minecraft:vine"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:ivy_crown",
+  "count": 1
+ }
+}

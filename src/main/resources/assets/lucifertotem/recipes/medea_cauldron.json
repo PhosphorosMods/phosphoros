@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " T ",
+  "BCB",
+  " G "
+ ],
+ "key": {
+  "T": {
+   "item": "lucifertotem:theriac"
+  },
+  "B": {
+   "item": "minecraft:blaze_powder"
+  },
+  "C": {
+   "item": "minecraft:cauldron"
+  },
+  "G": {
+   "item": "lucifertotem:glow_crystal"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:medea_cauldron"
+ }
+}

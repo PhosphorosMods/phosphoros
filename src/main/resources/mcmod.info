@@ -1,0 +1,10 @@
+[{
+  "modid": "lucifertotem",
+  "name": "Phosphoros: Purple Mysteries",
+  "description": "Phosphoros: Purple Mysteries (formerly Totem of Lucifer). The Totem of Lucifer: a reusable thrown totem that calls down violet Morningstar lightning. Mend a Fallen Altar and light it at dusk (Ammonius's Lecture Notes, found in a wrecked Alexandrian galley, explain how), or smite a villager, to open a gate to the Lightfall, a realm of eternal violet dusk: floating islands over a glowing purple sea beneath a vast morning star, with ruined spires, sunken shrines and the rare Morningstar Citadel.",
+  "version": "1.3.3",
+  "mcversion": "1.12.2",
+  "authorList": ["PhosphorosMod"],
+  "credits": "PhosphorosMod (phosphoros.mod@gmail.com). Voice of Doctor Ammonius: Dr. D.C.A. (Ammon) Hillman, used with his permission.",
+  "dependencies": []
+}]

@@ -1,0 +1,6 @@
+{
+ "parent": "block/cross",
+ "textures": {
+  "cross": "lucifertotem:blocks/dusk_poppy_tapped"
+ }
+}

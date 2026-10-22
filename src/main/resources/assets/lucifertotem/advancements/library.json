@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:bookshelf"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.library.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.library.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:enter_lightfall"
+}

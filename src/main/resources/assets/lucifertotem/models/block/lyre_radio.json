@@ -1,0 +1,8 @@
+{
+ "parent": "block/orientable",
+ "textures": {
+  "front": "lucifertotem:blocks/lyre_radio_front",
+  "side": "lucifertotem:blocks/lyre_radio_side",
+  "top": "lucifertotem:blocks/lyre_radio_side"
+ }
+}

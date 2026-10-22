@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:drakaina_scale"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.drakaina.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.drakaina.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

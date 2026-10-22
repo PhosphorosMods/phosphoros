@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:lyre_radio"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.on_air.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.on_air.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

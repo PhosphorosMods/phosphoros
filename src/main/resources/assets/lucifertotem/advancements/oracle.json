@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:pythian_laurel"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.oracle.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.oracle.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

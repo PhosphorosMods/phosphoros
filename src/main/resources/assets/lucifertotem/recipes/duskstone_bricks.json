@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "DD",
+  "DD"
+ ],
+ "key": {
+  "D": {
+   "item": "lucifertotem:duskstone"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:duskstone_bricks",
+  "count": 4
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "lucifertotem:theriac"
+  },
+  {
+   "item": "lucifertotem:star_foam"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:great_theriac"
+ }
+}

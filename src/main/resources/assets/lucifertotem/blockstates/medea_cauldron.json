@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "charged=false": {
+   "model": "lucifertotem:medea_cauldron"
+  },
+  "charged=true": {
+   "model": "lucifertotem:medea_cauldron_charged"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:writable_book"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.office_hours.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.office_hours.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:library"
+}

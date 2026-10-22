@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IPI",
+  "PWP",
+  " P "
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:vine"
+  },
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plankWood"
+  },
+  "W": {
+   "item": "lucifertotem:bacchic_wine"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:dionysus_mask",
+  "count": 1
+ }
+}

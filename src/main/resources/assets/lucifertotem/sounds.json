@@ -1,0 +1,1432 @@
+{
+  "ammonius.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/beautiful_finding",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/drugs_emperors_on_drugs",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/drugs_everybodys_carrying_drugs",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/drugs_prophesying_is_taking_drugs",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/fantastic",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/from_the_ground_baby",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/its_amazing",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/its_fantastic_its_great",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/medusa_called_the_medusa",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/medusa_really_exists",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/medusa_these_medusa",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/my_god_man",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_christians",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_forgot",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_i_get_it",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/republic_baby",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/still_in_the_cult",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/theriac_combo",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/theriac_cup",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/theriac_that_is_the_theriac",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/venom_from_north_africa",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/youre_going_to_love_it",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/aww_god",
+        "stream": false,
+        "weight": 2
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_1",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_3",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_4",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_gilgamesh",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_into",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_god_rod",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_2",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.death": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.death",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_2",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_1",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/so_stupid",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.attack": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.attack",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/are_you_ready",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/power_baby",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/venom_concoction_of_venom",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/venom_seven_snake_venom",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/venom_snake_venom",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/venom_the_venom",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.purple",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_baptism_into_the_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_first_word_was_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_hes_got_the_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_its_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_mary_purple_fingers",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_purple_dye",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_purple_fingers",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_still_talking_about_the_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_the_burning_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_those_purple_fingers",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.distant_ammonius": {
+    "category": "ambient",
+    "subtitle": "subtitles.lucifertotem.ambient.distant_ammonius",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_aww_gawd_purple",
+        "stream": false,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_oh_gawd_purple",
+        "stream": false,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_oh_gawd_burning_purple",
+        "stream": false,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_aww_gawd",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_oh_gawd",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_purple",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_mary_purple_fingers",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_oh_my_god",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_dark_star_lucifera",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_forget_those_sumerians",
+        "stream": false,
+        "volume": 0.8
+      },
+      {
+        "name": "lucifertotem:ammonius/ambient/distant_gilgamesh_bonehead",
+        "stream": false,
+        "volume": 0.8
+      }
+    ]
+  },
+  "purple_shout": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.purple_shout",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_its_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_hes_got_the_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_the_burning_purple",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_those_purple_fingers",
+        "stream": false
+      },
+      {
+        "name": "lucifertotem:ammonius/purple_purple_dye",
+        "stream": false
+      }
+    ]
+  },
+  "mandrake_scream": {
+    "category": "block",
+    "subtitle": "subtitles.lucifertotem.mandrake_scream",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ghast.scream",
+        "type": "event",
+        "pitch": 1.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.ghast.hurt",
+        "type": "event",
+        "pitch": 1.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "mandrake_squeak": {
+    "category": "block",
+    "subtitle": "subtitles.lucifertotem.mandrake_squeak",
+    "sounds": [
+      {
+        "name": "minecraft:entity.bat.ambient",
+        "type": "event",
+        "pitch": 1.3,
+        "volume": 0.6
+      }
+    ]
+  },
+  "dipsas.hiss": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.dipsas.hiss",
+    "sounds": [
+      {
+        "name": "minecraft:entity.cat.hiss",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 0.8
+      }
+    ]
+  },
+  "ritual.snap": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.ritual.snap",
+    "sounds": [
+      {
+        "name": "minecraft:block.glass.break",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.evocation_illager.cast_spell",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "ritual.star_fall": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.ritual.star_fall",
+    "sounds": [
+      {
+        "name": "minecraft:entity.firework.large_blast_far",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.lightning.thunder",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 1.0
+      }
+    ]
+  },
+  "pythia.speak": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.pythia.speak",
+    "sounds": [
+      {
+        "name": "minecraft:entity.illusion_illager.cast_spell",
+        "type": "event",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.evocation_illager.prepare_wololo",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 1.0
+      }
+    ]
+  },
+  "trophonius.whisper": {
+    "category": "ambient",
+    "subtitle": "subtitles.lucifertotem.trophonius.whisper",
+    "sounds": [
+      {
+        "name": "minecraft:ambient.cave",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 1.0
+      }
+    ]
+  },
+  "alabastron.bonk": {
+    "category": "player",
+    "subtitle": "subtitles.lucifertotem.alabastron.bonk",
+    "sounds": [
+      {
+        "name": "minecraft:block.note.basedrum",
+        "type": "event",
+        "pitch": 1.4,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block.wood.hit",
+        "type": "event",
+        "pitch": 0.8,
+        "volume": 1.0
+      }
+    ]
+  },
+  "alabastron.dose": {
+    "category": "player",
+    "subtitle": "subtitles.lucifertotem.alabastron.dose",
+    "sounds": [
+      {
+        "name": "minecraft:random/eat1",
+        "pitch": 0.6
+      },
+      {
+        "name": "minecraft:random/eat2",
+        "pitch": 0.68
+      },
+      {
+        "name": "minecraft:random/eat3",
+        "pitch": 0.75
+      },
+      {
+        "name": "minecraft:random/eat1",
+        "pitch": 0.72
+      },
+      {
+        "name": "minecraft:random/eat2",
+        "pitch": 0.62
+      },
+      {
+        "name": "minecraft:random/eat3",
+        "pitch": 0.66
+      }
+    ]
+  },
+  "squish.small": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.squish.small",
+    "sounds": [
+      {
+        "name": "minecraft:mob/slime/small1"
+      },
+      {
+        "name": "minecraft:mob/slime/small2"
+      },
+      {
+        "name": "minecraft:mob/slime/small3"
+      },
+      {
+        "name": "minecraft:mob/slime/small4"
+      },
+      {
+        "name": "minecraft:mob/slime/small5"
+      }
+    ]
+  },
+  "ammonius.aww_gawd": {
+    "category": "ambient",
+    "subtitle": "subtitles.lucifertotem.ammonius.aww_gawd",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/aww_god",
+        "stream": false,
+        "volume": 1.0
+      }
+    ]
+  },
+  "murex.crunch": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.murex.crunch",
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "record.devils_flight": {
+    "category": "record",
+    "subtitle": "subtitles.lucifertotem.record.devils_flight",
+    "sounds": [
+      {
+        "name": "lucifertotem:records/devils_flight",
+        "stream": true
+      }
+    ]
+  },
+  "reviewer.citation": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.reviewer.citation",
+    "sounds": [
+      {
+        "name": "entity.villager.no",
+        "type": "event"
+      }
+    ]
+  },
+  "goat.bleat": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.goat.bleat",
+    "sounds": [
+      {
+        "name": "entity.sheep.ambient",
+        "type": "event",
+        "pitch": 0.7
+      }
+    ]
+  },
+  "hound.howl": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.hound.howl",
+    "sounds": [
+      {
+        "name": "entity.wolf.howl",
+        "type": "event",
+        "pitch": 0.7
+      }
+    ]
+  },
+  "hydra.roar": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.hydra.roar",
+    "sounds": [
+      {
+        "name": "entity.enderdragon.growl",
+        "type": "event",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "drakaina.hiss": {
+    "category": "hostile",
+    "subtitle": "subtitles.lucifertotem.drakaina.hiss",
+    "sounds": [
+      {
+        "name": "entity.cat.hiss",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "lyre.strum": {
+    "category": "record",
+    "subtitle": "subtitles.lucifertotem.lyre.strum",
+    "sounds": [
+      {
+        "name": "block.note.harp",
+        "type": "event"
+      }
+    ]
+  },
+  "ammonius.line.are_you_ready": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/are_you_ready",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.are_you_the_god_pan": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.are_you_the_god_pan",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/are_you_the_god_pan",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.athenian_assembly_cannabis": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.athenian_assembly_cannabis",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/athenian_assembly_cannabis",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.aww_god": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/aww_god",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.bar_bar_bar": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.bar_bar_bar",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/bar_bar_bar",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.beautiful_finding": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/beautiful_finding",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.black_death_are_you_ready": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.black_death_are_you_ready",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/black_death_are_you_ready",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.castoreum_beaver": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.castoreum_beaver",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/castoreum_beaver",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.christ_is_a_drug_term": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.christ_is_a_drug_term",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/christ_is_a_drug_term",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.communion_meaningless": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.communion_meaningless",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/communion_meaningless",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.dark_star_lucifera": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.dark_star_lucifera",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/dark_star_lucifera",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.devil_doesnt_let_me": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.devil_doesnt_let_me",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/devil_doesnt_let_me",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.dont_buy_my_book": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.dont_buy_my_book",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/dont_buy_my_book",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.drugs_emperors_on_drugs": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/drugs_emperors_on_drugs",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.drugs_everybodys_carrying_drugs": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/drugs_everybodys_carrying_drugs",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.drugs_prophesying_is_taking_drugs": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/drugs_prophesying_is_taking_drugs",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.fantastic": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/fantastic",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.forget_those_sumerians": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.forget_those_sumerians",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/forget_those_sumerians",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.freeze_you_in_your_tracks": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.freeze_you_in_your_tracks",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/freeze_you_in_your_tracks",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.from_the_ground_baby": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/from_the_ground_baby",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.galen_fifty_to_sixty_drugs": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.galen_fifty_to_sixty_drugs",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/galen_fifty_to_sixty_drugs",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.galene_calm_of_the_storm": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.galene_calm_of_the_storm",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/galene_calm_of_the_storm",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.get_you_psychotic": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.get_you_psychotic",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/get_you_psychotic",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.gilgamesh_bonehead": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.gilgamesh_bonehead",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/gilgamesh_bonehead",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.greed_stains_your_soul": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.greed_stains_your_soul",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/greed_stains_your_soul",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.ios_arrow_poison": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.ios_arrow_poison",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/ios_arrow_poison",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.its_amazing": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/its_amazing",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.its_fantastic_its_great": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/its_fantastic_its_great",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.julian_destroy_education": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.julian_destroy_education",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/julian_destroy_education",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.kitchen_horse_whip": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.kitchen_horse_whip",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/kitchen_horse_whip",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medea_built_euphrates": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.medea_built_euphrates",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medea_built_euphrates",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medea_napalm": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.medea_napalm",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medea_napalm",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medea_root_for_medicine": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.medea_root_for_medicine",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medea_root_for_medicine",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medea_unheralded_genius": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.medea_unheralded_genius",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medea_unheralded_genius",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medusa_called_the_medusa": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medusa_called_the_medusa",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medusa_really_exists": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medusa_really_exists",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.medusa_these_medusa": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/medusa_these_medusa",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.mr_rogers_greek": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.mr_rogers_greek",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/mr_rogers_greek",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.museum_alexandria": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.museum_alexandria",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/museum_alexandria",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.my_god_man": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/my_god_man",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.never_seen_so_many_drugs": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.never_seen_so_many_drugs",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/never_seen_so_many_drugs",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_1": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_1",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_2": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.death",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_2",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_3": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_3",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_4": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_4",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_christians": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_christians",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_forgot": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_forgot",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_gilgamesh": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_gilgamesh",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_into": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_into",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_god_rod": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_god_rod",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_my_god_1": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.death",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_1",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_my_god_2": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.hurt",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_2",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.oh_my_god_i_get_it": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/oh_my_god_i_get_it",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.opium_dosage_upwards": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.opium_dosage_upwards",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/opium_dosage_upwards",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.poopy_languages": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.poopy_languages",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/poopy_languages",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.power_baby": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/power_baby",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_baptism_into_the_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_baptism_into_the_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_first_word_was_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_first_word_was_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_hes_got_the_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_hes_got_the_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_its_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_its_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_mary_purple_fingers": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_mary_purple_fingers",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_purple_dye": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_purple_dye",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_purple_fingers": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_purple_fingers",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_still_talking_about_the_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_still_talking_about_the_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_the_burning_purple": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_the_burning_purple",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.purple_those_purple_fingers": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/purple_those_purple_fingers",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.republic_baby": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/republic_baby",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.slaves_and_priests": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.slaves_and_priests",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/slaves_and_priests",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.smoking_the_scorpion": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.smoking_the_scorpion",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/smoking_the_scorpion",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.so_stupid": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.death",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/so_stupid",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.still_in_the_cult": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/still_in_the_cult",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.theriac_combo": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/theriac_combo",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.theriac_cup": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/theriac_cup",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.theriac_that_is_the_theriac": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/theriac_that_is_the_theriac",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.third_grader": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.third_grader",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/third_grader",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.vatican_hill_sibyl": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.vatican_hill_sibyl",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/vatican_hill_sibyl",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.venom_concoction_of_venom": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/venom_concoction_of_venom",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.venom_from_north_africa": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/venom_from_north_africa",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.venom_seven_snake_venom": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/venom_seven_snake_venom",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.venom_snake_venom": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/venom_snake_venom",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.venom_the_venom": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/venom_the_venom",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.victorian_bastards": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.victorian_bastards",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/victorian_bastards",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.where_can_i_join": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.line.where_can_i_join",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/where_can_i_join",
+        "stream": false
+      }
+    ]
+  },
+  "ammonius.line.youre_going_to_love_it": {
+    "category": "neutral",
+    "subtitle": "subtitles.lucifertotem.ammonius.idle",
+    "sounds": [
+      {
+        "name": "lucifertotem:ammonius/youre_going_to_love_it",
+        "stream": false
+      }
+    ]
+  }
+}

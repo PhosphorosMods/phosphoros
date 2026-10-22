@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "group": "lucifertotem:seasoned",
+ "ingredients": [
+  {
+   "item": "minecraft:cooked_fish",
+   "data": 1
+  },
+  {
+   "item": "lucifertotem:silphium_resin"
+  }
+ ],
+ "result": {
+  "item": "minecraft:cooked_fish",
+  "count": 1,
+  "nbt": "{lt_silphium:1b}",
+  "data": 1
+ }
+}

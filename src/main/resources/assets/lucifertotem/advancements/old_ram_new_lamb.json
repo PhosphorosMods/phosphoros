@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:medea_cauldron"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.old_ram_new_lamb.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.old_ram_new_lamb.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

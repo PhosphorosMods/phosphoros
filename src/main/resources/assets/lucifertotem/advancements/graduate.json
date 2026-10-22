@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:mortarboard"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.graduate.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.graduate.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:office_hours"
+}

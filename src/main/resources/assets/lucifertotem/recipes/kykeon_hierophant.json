@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:potion",
+   "data": 32767
+  },
+  {
+   "item": "lucifertotem:barley"
+  },
+  {
+   "item": "lucifertotem:ergot"
+  },
+  {
+   "item": "minecraft:leaves",
+   "data": 32767
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:kykeon_hierophant",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SES", "OGO", "SOS"],
+  "key": {
+    "S": {"item": "lucifertotem:morningstar_shard"},
+    "E": {"item": "minecraft:ender_eye"},
+    "O": {"item": "minecraft:obsidian"},
+    "G": {"item": "minecraft:gold_block"}
+  },
+  "result": {"item": "lucifertotem:totem_of_lucifer"}
+}

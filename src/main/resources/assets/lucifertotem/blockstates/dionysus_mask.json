@@ -1,0 +1,36 @@
+{
+ "variants": {
+  "facing=north,wild=false": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 0
+  },
+  "facing=north,wild=true": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 0
+  },
+  "facing=east,wild=false": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 90
+  },
+  "facing=east,wild=true": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 90
+  },
+  "facing=south,wild=false": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 180
+  },
+  "facing=south,wild=true": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 180
+  },
+  "facing=west,wild=false": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 270
+  },
+  "facing=west,wild=true": {
+   "model": "lucifertotem:dionysus_mask",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "pools": [
+  {
+   "name": "studio",
+   "rolls": {
+    "min": 3,
+    "max": 5
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "minecraft:paper",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 6
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:book",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:redstone",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 6
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_stal",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_blocks",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:noteblock",
+     "weight": 2
+    }
+   ]
+  },
+  {
+   "name": "disc",
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:record_devils_flight",
+     "weight": 1
+    },
+    {
+     "type": "empty",
+     "weight": 3
+    }
+   ]
+  }
+ ]
+}

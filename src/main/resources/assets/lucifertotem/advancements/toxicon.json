@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:toxicon_arrow"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.toxicon.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.toxicon.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

@@ -1,0 +1,293 @@
+{
+ "pools": [
+  {
+   "name": "books",
+   "rolls": {
+    "min": 2,
+    "max": 4
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "minecraft:book",
+     "weight": 10,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 3
+       }
+      },
+      {
+       "function": "enchant_randomly"
+      }
+     ],
+     "entryName": "book_1"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:book",
+     "weight": 12,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 4
+       }
+      }
+     ],
+     "entryName": "book_2"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:paper",
+     "weight": 10,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 8
+       }
+      }
+     ],
+     "entryName": "paper_3"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:writable_book",
+     "weight": 3,
+     "entryName": "writable_book_4"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:sibylline_leaves",
+     "weight": 6,
+     "entryName": "sibylline_leaves_5"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:map",
+     "weight": 3,
+     "entryName": "map_6"
+    }
+   ]
+  },
+  {
+   "name": "treasure",
+   "rolls": {
+    "min": 1,
+    "max": 2
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:theriac",
+     "weight": 6,
+     "entryName": "theriac_7"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:great_theriac",
+     "weight": 1,
+     "entryName": "great_theriac_8"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:alabastron",
+     "weight": 5,
+     "entryName": "alabastron_9"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:alabastron",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_nbt",
+       "tag": "{lt_effects:[{Id:10b,Amplifier:0b,Duration:900,Ambient:0b,ShowParticles:1b}]}"
+      }
+     ],
+     "entryName": "alabastron_10"
+    },
+    {
+     "type": "item",
+     "name": "lucifertotem:pythian_laurel",
+     "weight": 4,
+     "entryName": "pythian_laurel_11"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:experience_bottle",
+     "weight": 6,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 6
+       }
+      }
+     ],
+     "entryName": "experience_bottle_12"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:dye",
+     "weight": 8,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 3,
+        "max": 9
+       }
+      },
+      {
+       "function": "set_data",
+       "data": 4
+      }
+     ],
+     "entryName": "dye_13"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:gold_ingot",
+     "weight": 6,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 4
+       }
+      }
+     ],
+     "entryName": "gold_ingot_14"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:emerald",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 3
+       }
+      }
+     ],
+     "entryName": "emerald_15"
+    }
+   ]
+  },
+  {
+   "name": "gear",
+   "rolls": {
+    "min": 0,
+    "max": 1
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "minecraft:iron_sword",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 15,
+        "max": 30
+       },
+       "treasure": false
+      }
+     ],
+     "entryName": "iron_sword_16"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:diamond_sword",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 20,
+        "max": 30
+       },
+       "treasure": false
+      }
+     ],
+     "entryName": "diamond_sword_17"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:iron_chestplate",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 15,
+        "max": 30
+       },
+       "treasure": false
+      }
+     ],
+     "entryName": "iron_chestplate_18"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:golden_helmet",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 20,
+        "max": 30
+       },
+       "treasure": true
+      }
+     ],
+     "entryName": "golden_helmet_19"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:bow",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 15,
+        "max": 30
+       },
+       "treasure": false
+      }
+     ],
+     "entryName": "bow_20"
+    },
+    {
+     "type": "item",
+     "name": "minecraft:diamond_boots",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "enchant_with_levels",
+       "levels": {
+        "min": 20,
+        "max": 30
+       },
+       "treasure": false
+      }
+     ],
+     "entryName": "diamond_boots_21"
+    }
+   ]
+  }
+ ]
+}

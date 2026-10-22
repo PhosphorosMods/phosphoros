@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:dionysus_statue"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.xoanon.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.xoanon.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

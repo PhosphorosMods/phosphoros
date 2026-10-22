@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "tapped=false": {
+   "model": "lucifertotem:dusk_poppy"
+  },
+  "tapped=true": {
+   "model": "lucifertotem:dusk_poppy_tapped"
+  }
+ }
+}

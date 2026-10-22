@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "lucifertotem:tyrian_purple"
+  },
+  {
+   "item": "minecraft:clay_ball"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:brain_soap",
+  "count": 2
+ }
+}

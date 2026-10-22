@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "lucifertotem:lyre_radio",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "lucifertotem:lyre_radio",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "lucifertotem:lyre_radio",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "lucifertotem:lyre_radio",
+   "y": 270
+  }
+ }
+}

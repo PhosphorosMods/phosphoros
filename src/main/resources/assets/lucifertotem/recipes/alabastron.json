@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " T ",
+  "TBT"
+ ],
+ "key": {
+  "T": [
+   {"item": "minecraft:hardened_clay"},
+   {"item": "minecraft:stained_hardened_clay", "data": 32767},
+   {"item": "minecraft:clay_ball"}
+  ],
+  "B": {
+   "item": "minecraft:glass_bottle"
+  }
+ },
+ "result": {
+  "item": "lucifertotem:alabastron"
+ }
+}

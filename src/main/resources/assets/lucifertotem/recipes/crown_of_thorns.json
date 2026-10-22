@@ -1,0 +1,28 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "VPV",
+  "VWV",
+  " V "
+ ],
+ "key": {
+  "V": {
+   "item": "minecraft:vine"
+  },
+  "P": {
+   "item": "lucifertotem:dusk_poppy"
+  },
+  "W": {
+   "item": "lucifertotem:bacchic_wine"
+  }
+ },
+ "conditions": [
+  {
+   "type": "lucifertotem:v132_crown_recipe"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:crown_of_thorns",
+  "count": 1
+ }
+}

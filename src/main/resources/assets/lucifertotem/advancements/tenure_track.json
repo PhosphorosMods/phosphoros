@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:alabastron"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.tenure_track.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.tenure_track.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:aww_gawd"
+}

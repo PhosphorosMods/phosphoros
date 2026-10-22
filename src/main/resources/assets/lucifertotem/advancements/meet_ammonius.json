@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:theriac"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.meet_ammonius.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.meet_ammonius.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:library"
+}

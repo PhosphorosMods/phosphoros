@@ -1,0 +1,90 @@
+{
+ "pools": [
+  {
+   "name": "camp",
+   "rolls": {
+    "min": 3,
+    "max": 5
+   },
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:bacchic_wine",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 2
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:bread",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:string",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 2,
+        "max": 5
+       }
+      }
+     ]
+    },
+    {
+     "type": "item",
+     "name": "minecraft:noteblock",
+     "weight": 2
+    },
+    {
+     "type": "item",
+     "name": "minecraft:record_chirp",
+     "weight": 1
+    },
+    {
+     "type": "item",
+     "name": "minecraft:gold_nugget",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "set_count",
+       "count": {
+        "min": 3,
+        "max": 8
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "disc",
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "item",
+     "name": "lucifertotem:record_devils_flight",
+     "weight": 1
+    }
+   ]
+  }
+ ]
+}

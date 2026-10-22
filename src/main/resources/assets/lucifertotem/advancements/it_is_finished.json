@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:bacchic_wine"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.it_is_finished.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.it_is_finished.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:xoanon"
+}

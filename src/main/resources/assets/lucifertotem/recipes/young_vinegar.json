@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:potion",
+   "nbt": {
+    "Potion": "minecraft:water"
+   },
+   "type": "minecraft:item_nbt"
+  },
+  {
+   "item": "minecraft:fermented_spider_eye"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:young_vinegar"
+ }
+}

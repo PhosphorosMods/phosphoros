@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "lucifertotem:burning_purple"
+  },
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "lucifertotem:venom_vial"
+  },
+  {
+   "item": "minecraft:glass_bottle"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:medea_fire_flask",
+  "count": 2
+ }
+}

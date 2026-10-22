@@ -1,0 +1,6 @@
+{
+ "parent": "item/bow",
+ "textures": {
+  "layer0": "lucifertotem:items/scythian_bow_pulling_1"
+ }
+}

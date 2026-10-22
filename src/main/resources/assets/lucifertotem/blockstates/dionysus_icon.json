@@ -1,0 +1,36 @@
+{
+ "variants": {
+  "facing=north,upper=false": {
+   "model": "lucifertotem:dionysus_icon_lower",
+   "y": 0
+  },
+  "facing=north,upper=true": {
+   "model": "lucifertotem:dionysus_icon_upper",
+   "y": 0
+  },
+  "facing=east,upper=false": {
+   "model": "lucifertotem:dionysus_icon_lower",
+   "y": 90
+  },
+  "facing=east,upper=true": {
+   "model": "lucifertotem:dionysus_icon_upper",
+   "y": 90
+  },
+  "facing=south,upper=false": {
+   "model": "lucifertotem:dionysus_icon_lower",
+   "y": 180
+  },
+  "facing=south,upper=true": {
+   "model": "lucifertotem:dionysus_icon_upper",
+   "y": 180
+  },
+  "facing=west,upper=false": {
+   "model": "lucifertotem:dionysus_icon_lower",
+   "y": 270
+  },
+  "facing=west,upper=true": {
+   "model": "lucifertotem:dionysus_icon_upper",
+   "y": 270
+  }
+ }
+}

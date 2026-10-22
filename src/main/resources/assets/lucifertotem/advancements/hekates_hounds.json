@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:bone"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.hekates_hounds.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.hekates_hounds.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

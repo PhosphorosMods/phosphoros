@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "lucifertotem:venom_vial"
+  },
+  {
+   "item": "minecraft:potion",
+   "nbt": {
+    "Potion": "minecraft:water"
+   },
+   "type": "minecraft:item_nbt"
+  }
+ ],
+ "result": {
+  "item": "lucifertotem:diluted_venom",
+  "count": 2
+ }
+}

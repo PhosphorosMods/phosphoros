@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "symbol=0": {
+   "model": "lucifertotem:sacrum_wheat"
+  },
+  "symbol=1": {
+   "model": "lucifertotem:sacrum_pomegranate"
+  },
+  "symbol=2": {
+   "model": "lucifertotem:sacrum_torch"
+  }
+ }
+}

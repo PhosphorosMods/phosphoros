@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:totem_of_lucifer"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.aww_gawd.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.aww_gawd.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}

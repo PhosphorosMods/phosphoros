@@ -1,0 +1,23 @@
+{
+ "display": {
+  "icon": {
+   "item": "lucifertotem:key_of_hekate"
+  },
+  "title": {
+   "translate": "advancements.lucifertotem.key_of_hekate.title"
+  },
+  "description": {
+   "translate": "advancements.lucifertotem.key_of_hekate.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "announce_to_chat": true,
+  "show_toast": true
+ },
+ "criteria": {
+  "code": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "lucifertotem:root"
+}
